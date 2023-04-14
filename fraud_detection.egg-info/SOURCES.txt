@@ -5,3 +5,7 @@ fraud_detection.egg-info/dependency_links.txt
 fraud_detection.egg-info/entry_points.txt
 fraud_detection.egg-info/requires.txt
 fraud_detection.egg-info/top_level.txt
+fraud_detection_project/functions/create_dataset.py
+fraud_detection_project/functions/machine_learning.py
+fraud_detection_project/functions/plots.py
+fraud_detection_project/functions/preprocess_data.py

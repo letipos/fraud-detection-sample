@@ -2,8 +2,9 @@ from setuptools import setup
 
 setup(
     name='fraud_detection',
-    version='0.2',
-    packages=['fraud_detection'],
+    version='0.1',
+    packages=['fraud_detection_project',
+              'fraud_detection_project.functions'],
     install_requires=[
         'numpy>=1.20.3',
         'matplotlib>=3.4.2',

@@ -1,4 +1,5 @@
 setup.py
+fraud_detection_project/functions/__init__.py
 fraud_detection_project/functions/create_dataset.py
 fraud_detection_project/functions/machine_learning.py
 fraud_detection_project/functions/plots.py

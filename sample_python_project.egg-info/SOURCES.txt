@@ -1,9 +1,9 @@
 setup.py
-fraud_detection_project/functions/__init__.py
-fraud_detection_project/functions/create_dataset.py
-fraud_detection_project/functions/machine_learning.py
-fraud_detection_project/functions/plots.py
-fraud_detection_project/functions/preprocess_data.py
+fraud_detection_project/ml_functions/__init__.py
+fraud_detection_project/ml_functions/create_dataset.py
+fraud_detection_project/ml_functions/machine_learning.py
+fraud_detection_project/ml_functions/plots.py
+fraud_detection_project/ml_functions/preprocess_data.py
 sample_python_project.egg-info/PKG-INFO
 sample_python_project.egg-info/SOURCES.txt
 sample_python_project.egg-info/dependency_links.txt

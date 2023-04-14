@@ -1,10 +1,10 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='sample_python_project',
     version='0.1',
-    packages=['fraud_detection_project',
-              'fraud_detection_project.functions'],
+    packages=["fraud_detection_project",
+              "fraud_detection_project.ml_functions"],
     install_requires=[
         'numpy>=1.20.3',
         'matplotlib>=3.4.2',

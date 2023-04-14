@@ -14,7 +14,7 @@ def plot(df):
 
     # create a heatmap of the correlation matrix
     plt.figure(figsize=(10, 8))
-    sns.heatmap(corr, cmap='coolwarm', annot=True, fmt='.2f')
+    sns.heatmap(corr, cmap='Blues', annot=True, fmt='.2f')
     plt.title('Correlation Matrix')
 
     # create a pairplot of the numerical features

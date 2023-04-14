@@ -6,9 +6,9 @@ Python Code Packages are a way to organize and distribute a Python codebase as a
 
 Packaging your Python project offers several benefits, including:
 
-1. Reusability: By packaging your project, you make it easier for other developers to use and integrate your code into their own projects.
-2. Dependency management: By including all your project's dependencies in the package, you can ensure that your code works correctly regardless of the dependencies the user has installed on their system.
-3. Versioning: By specifying a version number for your package, you can ensure that users can easily track changes and update their code to the latest version.
+1. `Reusability`: By packaging your project, you make it easier for other developers to use and integrate your code into their own projects.
+2. `Dependency management`: By including all your project's dependencies in the package, you can ensure that your code works correctly regardless of the dependencies the user has installed on their system.
+3. `Versioning`: By specifying a version number for your package, you can ensure that users can easily track changes and update their code to the latest version.
 
 ## Setuptools and Python Packaging
 
@@ -44,3 +44,6 @@ data = create_dataset()
 ```
 
 This will import the create_dataset function from the `ml_functions` module in the `fraud_detection_project` package, and assign the returned data to the data variable.
+
+# License
+This project is licensed under the MIT License.

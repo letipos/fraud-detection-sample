@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: sample-python-project
-Version: 0.1
-Summary: This is a sample project to demonstrate python packaging with fraud detection use case
-Author: Leonard Posner
-Author-email: Leonard.Timo.Posner@ibm.com
-License: MIT

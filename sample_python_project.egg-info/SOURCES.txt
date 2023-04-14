@@ -1,0 +1,11 @@
+setup.py
+fraud_detection_project/functions/create_dataset.py
+fraud_detection_project/functions/machine_learning.py
+fraud_detection_project/functions/plots.py
+fraud_detection_project/functions/preprocess_data.py
+sample_python_project.egg-info/PKG-INFO
+sample_python_project.egg-info/SOURCES.txt
+sample_python_project.egg-info/dependency_links.txt
+sample_python_project.egg-info/entry_points.txt
+sample_python_project.egg-info/requires.txt
+sample_python_project.egg-info/top_level.txt

@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='fraud_detection',
+    name='sample_python_project',
     version='0.1',
     packages=['fraud_detection_project',
               'fraud_detection_project.functions'],
